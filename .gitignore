@@ -1,0 +1,14 @@
+examples/basic
+examples/ltvdump
+examples/ltv2json
+examples/roundtrip
+examples/c_data.ltv
+examples/*.dSYM
+examples/.cache
+
+tests/run_test_vectors
+tests/round_trip_test
+tests/fuzz
+tests/corpus
+tests/*.dSYM
+tests/default.*
